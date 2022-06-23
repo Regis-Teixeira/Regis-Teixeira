@@ -1,6 +1,6 @@
 ### Olá seja bem-vindo(a), sou o Régis Teixeira 👋
 
-- 📚 Atualmente estou cursando o 2º módulo do curso técnico em Desenvolvimento de Sistemas na Etec HAS
+- 📚 Atualmente estou cursando o 2º módulo do Curso Técnico de Desenvolvimento de Sistemas na Etec HAS
 
 <div align="center">
   <a href="https://github.com/registeixeira01">
