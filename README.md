@@ -1,6 +1,15 @@
-### Olá seja bem-vindo(a), sou o Régis Teixeira 👋
+### Olá seja bem-vindo(a), sou o desenvolvedor Régis Teixeira 👋
 
-- 📚 Atualmente estou cursando o 3º módulo do Curso Técnico de Desenvolvimento de Sistemas na Etec HAS
+- 📚 Sou formado em técnico de Desenvolvimento de Sistemas na Etec HAS.
+- 👨🏻‍💻 Tenho foco na carreira FullStack.
+- 💻 Em meus repositórios você encontra alguns projetos desenvolvidos em HTML, CSS, JavaScript, C#, ReactNative e Angular. Fique à vontade, meu contato está logo abaixo via Linkedin! 😁
+
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/r%C3%A9gis-teixeira-marcondes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/registeixeira01">
@@ -20,7 +29,7 @@
   ##
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/r%C3%A9gis-teixeira-marcondes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
   ![Snake animation](https://github.com/registeixeira01/registeixeira01/blob/output/github-contribution-grid-snake.svg)
  
