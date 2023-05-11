@@ -1,6 +1,7 @@
 ### Olá seja bem-vindo(a), sou o desenvolvedor Régis Teixeira 👋
 
 - 📚 Sou formado em técnico de Desenvolvimento de Sistemas na Etec HAS.
+- 📚 Estou cursando a graduação de Análise e Desenvolvimento de Sistemas na FMU.
 - 👨🏻‍💻 Tenho foco na carreira FullStack.
 - 💻 Em meus repositórios você encontra alguns projetos desenvolvidos em HTML, CSS, JavaScript, C#, ReactNative e Angular. Fique à vontade, meu contato está logo abaixo via Linkedin! 😁
 
